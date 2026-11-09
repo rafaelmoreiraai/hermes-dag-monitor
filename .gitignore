@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and runtime scratch
+.cache/
+.pytest_cache/
+*.tmp
+
+# Local dashboard previews
+dag_monitor_*.html
+dag_dashboard_*.html

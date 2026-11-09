@@ -1,0 +1,6 @@
+name: dag-monitor
+version: "1.0.0"
+description: "Visual dashboard for DAG-ULW runs: per-node token telemetry, cache hits, model breakdown and relative quota savings."
+author: "Rafael Moreira"
+provides_commands:
+  - dag-monitor
